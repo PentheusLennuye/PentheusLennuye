@@ -1,3 +1,2 @@
 - 👋 Hi, I’m George Cummings
-- 👀 I’m interested in Music, computers, karate and military equipment.
-- 🌱 I’m currently learning Artificial Intelligence/Machine Learning/Analytics
+- 👀 I’m interested in Music, computers, and karate
