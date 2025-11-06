@@ -4,13 +4,17 @@ My name is George Cummings. I have been in the IT industry for over 30 years as 
 
 ## Tools
 
-- Software: My primary tools are Visual Studio Code and nvim. Secondary is Obsidian, although I write my PKM markdown with nvim.
+- Software: My primary tools are nvim, Visual Studio Code, Kubernetes, and Docker. My secondary is Obsidian.
 - Equipment:
   - Employer daily driver: MacBook Pro, Apple Silicon
   - Personal daily driver: personally built PC built on a Fractal North chassis running NixOS
   - Personal laptop: Thinkbook 14s Yoga IRL, also running NixOS
   - Kubernetes cluster: HP ProDesk minis running, you guessed it, NixOS
   - A variety of VMs, switches, Raspberry Pi's, and so on.
+- Languages:
+  - My primary procedural/OOP/FP language is Python.
+  - Secondaries are Golang and more bash than I thought possible.
+  - DSL's such as Ansible's YAML, Puppet's Ruby, and I've forgotten PHP, Perl, C, Macro/Assembly and Commodore Basic.
 
 ## Career
 
