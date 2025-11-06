@@ -1,4 +1,4 @@
-# Senior IT Infrastructure and Automation Dev
+# Senior IT Infrastructure and Automation DevOps Programmer/Analyst
 
 My name is George Cummings. I have been in the IT industry for over 30 years as administrator, coder, DevOps enthusiast, student, and instructor. I live in the Eastern Townships of Quebec, Canada.
 
