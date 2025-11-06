@@ -30,8 +30,8 @@ Necessity leads me to experiment in Go although I'd rather poke around in Rust a
   - Employer daily driver: MacBook Pro, Apple Silicon
   - Personal Daily driver: personally built PC built on a Fractal North chassis running NixOS
   - Personal Laptop: Thinkbook 14s Yoga IRL, also running NixOS
-  - Kubernetes cluster running off HP ProDesk minis.
-  - A variety of VMs, switches, Raspberry Pi's, and so on
+  - Kubernetes cluster: HP ProDesk minis running, you guessed it, NixOS
+  - A variety of VMs, switches, Raspberry Pi's, and so on.
 
 ## Education
 
