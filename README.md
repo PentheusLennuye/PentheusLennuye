@@ -2,7 +2,7 @@ My name is George Cummings. I have been in the IT industry for over 30 years as 
 
 ## Career In A Nutshell
 
-My career has been mostly as system and network administrator with some side jobs as instructor – not necessarily always in IT. Currently I’m a senior automation "architect" at a multinational computer working on cloud infrastructure management. This means I work an automation development/"tiger" team married to network services and Kubernetes. I spend my time coding in Python, acting as the spokesperson for the team in demonstrations, and improving documentation, info management, and team morale.
+My career has been mostly as system and network administrator with some side jobs as instructor – not necessarily always in IT. Currently I’m a senior automation "architect" at a major multinational computing firm, working on cloud infrastructure management and automation. This means I work in a development/"tiger"/centre-of-excellence team married to network services and Kubernetes. I spend my time coding in Python, acting as the spokesperson for the team in demonstrations, providing guidance to junior developers, improving documentation, encouraging info management, and maintaining team morale.
 
 Necessity leads me to experiment in Go although I'd rather poke around in Rust and fiddle with Haskell.
 
